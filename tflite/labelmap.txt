@@ -1,0 +1,4 @@
+Paper
+Scissor
+Rock
+SSAFY
